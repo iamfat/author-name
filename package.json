@@ -1,6 +1,6 @@
 {
   "name": "author-name",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a library for author name paring ",
   "main": "index.js",
   "directories": {
